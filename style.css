@@ -1,0 +1,334 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+header h2{
+    font-family: Clicker Script;
+    color: white;
+}
+.h-ota .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+ li a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color: black;
+    padding: 15px 0;
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+}
+.h-end a{
+    color: white;
+}
+.btn{
+    padding: 12px 18px;
+    background-color: #F9C06A;
+    border: none;
+    border-radius: 25px;
+}
+.s1{
+    background-image: url(./img/Group\ 36.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0;
+}
+.s1t h1{
+    font-family: Clicker Script;
+font-size: 220px;
+font-weight: 400;
+line-height: 290.58px;
+color: white;
+}
+.s1t h2{
+    color: white;
+}
+.s1t p{
+    font-family: Playfair Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 34px;
+color: white;
+
+}
+.s1t{
+    width: 560px;
+    
+}
+
+
+.h2{
+    font-family: Playfair Display;
+font-size: 54px;
+font-weight: 700;
+line-height: 71.98px;
+color: #603809;
+
+}
+.s2t{
+    width: 550px;
+}
+.s2{
+    margin-top: 100px;
+}
+.s2t p{
+    font-family: Playfair Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+color: #707070;
+margin-bottom: 20px;
+}
+.s2ota .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.blast1{
+    top: 250px;
+    position: absolute;
+    margin: 0 auto;
+}
+.s2ota{
+    position: relative;
+}
+
+
+.s3{
+    margin-top: 60px;
+    position: relative;
+}
+.s3top p{
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #707070;
+    margin-bottom: 20px; 
+}
+.s3top{
+    text-align: center;
+}
+.card{
+    width: 280px;
+height: 364px;
+background-color: #f0e7dc;
+text-align: center;
+}
+.card p{
+    margin: 18px 0;
+    color: #1E1E1E;
+    font-weight: 200;
+}
+.card h2{
+    color: #603809;
+}
+.s3cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.blast{
+    position: absolute;
+    right: 2px;
+    bottom: -180px;
+}
+
+
+.s4top{
+    text-align: center;
+}
+.s4top p{
+    font-family: Playfair Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 34px;
+color: #707070;
+}
+.box{
+width: 280px;
+height: 284px;
+background-color: #FFF9F1;
+border: 1px solid #e7aa506b;  
+text-align: center;
+padding: 10px;
+transition: 0.5s;
+}
+.box h2{
+    color: #603809;
+    font-size: 26px;
+    margin: 20px 0 30px;
+}
+.box p{
+    font-size: 28px;
+    color: #707070;
+}
+.s4box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.box:hover{
+    background-color: #e7aa506b;
+}
+.s4end{
+    text-align: center;
+    margin: 30px 0 50px;
+}
+.s4end p{
+    font-size: 18px;
+    color: #707070;
+}
+
+
+
+
+
+.s5{
+    background-image: url(./img/Group\ 36.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0;
+}
+.s5t{
+    width: 570px;
+    height: 300px;
+}
+h4{
+    font-family: Playfair Display;
+font-size: 54px;
+font-weight: 700;
+line-height: 71.98px;
+color: white;
+
+}
+.s5t p{
+    font-family: Playfair Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 34px;
+color: #FFFFFF;
+margin: 30px 0;
+}
+.s5ota .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.s6{
+    font-family: Playfair Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 34px;
+text-align: center;
+color: #707070;
+position: relative;
+margin-bottom: 200px;
+}
+
+.jonny{
+    margin-top: 80px;
+    width: 980px;
+height: 524px;
+border: 1px solid #F9C06A6B;
+background-color: #FFF9F1;
+padding: 100px 0;
+margin: 50px auto;
+
+}
+.jonny p{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#i{
+    position: absolute;
+    left: 0px;
+    top: 550px;
+}
+#e{
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+
+.s7{
+    background-image: url(./img/Group\ 36.png);
+    height: 400px;
+    padding: 50px 0;
+    position: relative;
+}
+.s7t p{
+   color: white;
+   font-size: 20px;
+   margin: 20px 0;
+}
+.s7t{
+    text-align: center;
+}
+.s7input input{
+    width: 642px;
+height: 66px;
+border-radius: 4px;
+border: 1px;
+padding: 8px 10px;
+font-size: 20px;
+margin-top: 20px;
+}
+.s7input button{
+    height: 70px;
+    border-radius: 10px;
+}
+#p{
+    position: absolute;
+    right: 1px;
+    top: 130px;
+}
+#l{
+    position: absolute;
+    left: 1px;
+    top: 130px;
+}
+.fo{
+    background-image: url(./img/fotter_image.png);
+    height: 530px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #603809;
+    padding: 130px 0;
+}
+.fo h2{
+    font-family: Clicker Script;
+    color: white;
+    font-size: 33px;
+}
+.gh{
+    width: 300px;
+}
+.gh p{
+    font-size: 16px ;
+    color: #FFFFFF;
+}
+.fffo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
